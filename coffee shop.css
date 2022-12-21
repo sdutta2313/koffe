@@ -1,0 +1,229 @@
+
+.available-coffee{
+	color:orange;
+	
+
+}
+.out-of-stock{
+	height: 200px;
+	width: 200px;
+	border:6px dashed gold ;
+	padding: 30px;
+	
+	font-size:17px ;
+	font-style:italic ;
+	font-family: georgia;
+}
+.in-stock{
+	height: 200px;
+	width: 200px;
+	padding: 30px;
+	
+	border:6px double blueviolet;
+	font-size:17px ;
+	font-style:italic ;
+	font-family: georgia;
+}
+.div-img{
+	height: 70%;
+	width:90%;
+}
+#mocha{
+	color:whitesmoke;
+
+}
+.Pricing-Table{
+	width: 100%;
+	border:  2px solid green;
+	font-family: "Arial Black",Gadget,sans-serif;
+	text-align:center ;
+}
+.caption-heading{
+	color: #2979a8;
+}
+th{
+	background-color: darkcyan;
+	height: 50px;
+	color: white;
+	font-size: 22px;
+}
+.tr-out-of-stock:hover{
+	background-color: darkred;
+
+}
+.tr-in-stock:hover{
+	background-color:lightgreen;
+
+}
+.product-c{
+	position:absolute;
+	color: aliceblue;
+	font-weight: 900;
+	
+	left: 5px;
+	
+	width: 750px;
+	top: 180px;
+	text-align: center;
+}
+.product-s{
+	position:absolute;
+	color: aliceblue;
+	font-weight: 900;
+	
+	right: 5px;
+	
+	width: 750px;
+	top: 180px;
+	text-align: center;
+}
+.design{
+	background-color: lightcyan;
+	text-align:center 
+}
+.list{
+	position: absolute;
+	top: 200px;
+	color:moccasin;
+	font-size: 20px;
+	text-align:center 
+	z-index: 2000;
+}
+.p-img{
+	height: 500px;
+	width: 642px;
+	margin: 30px;
+}
+b,i{background-color: darkcyan;}
+
+html{
+	
+	background-image: url(coffee-beans-wallpaper-4k.jpg);
+
+}
+
+
+.top{
+	height: 50px;
+	width: 50px;
+	position: fixed;
+	bottom :10px;
+	right: 10px;
+	z-index: 10;
+
+}
+.title{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	height: 200px;
+	width: 100%;
+	background-color: #232120;
+	z-index: 1;
+}
+.logo{
+	height: 50%;
+	text-align: center;
+	float: left;
+}
+.navi{
+	float: right;
+	height: 100%;
+	
+}
+
+
+.text{
+	display: block;
+	font-size: 15px;
+	font-family: monospace;
+	color:ivory;
+}
+.navi a{
+	display: inline-block;
+	color: burlywood;
+
+	font-size: 20px;
+	font-family: cursive;
+	padding-right: 25px;
+	padding-top: 65px;
+	}
+.site{
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 180px;
+	width: 100%;
+
+}
+.imgc{
+	background: url(an.gif);
+	height: 700px;
+	width: 100%;
+	text-align: center;
+	color:moccasin;
+
+	font-family: cursive;
+}
+.cardl{
+	width: 100%;
+	height: 400px;
+	position: absolute;
+	top: 600px;
+	background-color: darkcyan;
+}
+.cardf{
+	width: 100%;
+	height: 400px;
+	position: absolute;
+	top: 1000px;
+	background-color: darkcyan;
+}
+#prds{
+	text-align: center;
+	color: moccasin;
+	font-family:cursive;
+	font-size: 25px;
+}
+.c{
+	width: 24%;
+	padding: 0.5%;
+	height: 250px;
+	float: left;
+	text-align: center;
+	color: maroon;
+	font-family: monospace;
+
+
+}
+.d{
+	
+	
+	
+	width: 24%;
+	padding: 0.5%;
+	height: 250px;
+	float: left;
+	text-align: center;
+	color: maroon;
+	font-family: monospace;
+	
+
+}
+.c img{
+	width: 100%;
+	height: 100%;
+}
+.d img{
+	width: 100%;
+	height: 100%;
+}
+#ord{
+	text-align: center;
+}
+.quo{
+	padding: 300px;
+	font-family: cursive;
+}
+
